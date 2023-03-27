@@ -34,7 +34,7 @@ Networks,,features,ontology_array,,,CatalogueOntologies,Network features,,,,,Cha
 Studies,,type,ontology,,,CatalogueOntologies,Study types,,,,,Select 1 of the following types of study,,,
 Studies,,type other,,,,,,,,,,"If other, describe the type of study",,,
 RWE resources,,type,ontology_array,,,CatalogueOntologies,Datasource types,,,,,Which of the following families of databanks best describe this data source,EMA,,
-RWE resources,,type other,text,,,,,,,,,"If other, describe the type of datasource",EMA,
+RWE resources,,type other,text,,,,,,,,,"If other, describe the type of datasource",EMA,,
 Data resources,,keywords,text,,,,,,,,,Keywords to increase findability of this resource. Try to use words that are not used in the description,,Resources,keywords
 Resources,,website,hyperlink,,,,,,,,,Link to the website or homepage,EMA,,
 Extended resources,,lead organisation,ref_array,,,,Organisations,,,,,lead organisation (e.g. research department or group) for this resource,EMA,,
